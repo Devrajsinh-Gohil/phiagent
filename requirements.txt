@@ -1,0 +1,16 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+langgraph>=0.0.10
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+psycopg2-binary>=2.9.9
+pgvector>=0.2.3
+sentence-transformers>=2.2.2
+python-multipart>=0.0.6
+faiss-cpu>=1.7.4  # For local testing without GPU
+tiktoken>=0.5.0  # For token counting
+openai>=1.0.0  # For embeddings and LLM
+python-docx>=1.0.0  # For Word document processing
+PyPDF2>=3.0.0  # For PDF processing
+unstructured>=0.12.0  # For document loading
